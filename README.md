@@ -1,7 +1,8 @@
 # Go Redis 초간단 튜토리얼 해보기
 [korean]()  [english]()
 
-[go-redis/redis](https://github.com/go-redis/redis)
+
+from [https://github.com/go-redis/redis](https://github.com/go-redis/redis)
 
 ## 설치하기
 
